@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5f80657d-ac87-41aa-b6be-a04e1cabd82e">
+  <producedTypes>
+    <objectType typeId="d749324d-2381-49e1-ac08-c02a52b53c1f" valueTypeId="4637dc17-bee1-4827-8b52-cf9d96fc5829"/>
+  </producedTypes>
+  <name>ВнешняяОбработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Внешняя обработка</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="bb23f722-fcaf-4eec-9b90-8765d4c29634"/>
+</mdclass:ExternalDataProcessor>
